@@ -1,0 +1,13 @@
+# Global.
+*.egg-info/
+*.py[co]
+*~
+.DS_Store
+.svn/
+
+# Aptana, pycharm, pydev, etc.
+.env
+.idea
+.project
+.pydevproject
+.settings*
